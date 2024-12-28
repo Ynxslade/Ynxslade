@@ -4,7 +4,7 @@ I'm an aspiring programmer who honestly doesn't know what I want to do in the fu
   # 💻 Projects
 - Flappy Bird recreation Here is the link to my [Flappy Bird Repository](https://github.com/Ynxslade/Flappy_Bird).
 - ImageIdentifier
-- Data-science-Project
+- [Data-science-Project](https://github.com/Ynxslade/data-science-Project)
   This is a project that dives deeper into game development and implementing the Pygame functions
 - Currently:
 - I’m interested in creating my own app and website using React Swift and Javascript to improve my understanding of these languages overall and become a better programmer 
